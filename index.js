@@ -14,5 +14,5 @@ app.get('/1',(req,res)=>{
     res.render('fronted1'); //render the index.ejs file
 });
 app.listen(port,()=>{
-console.log("Hello world");
+console.log("Hello world1");
 });
